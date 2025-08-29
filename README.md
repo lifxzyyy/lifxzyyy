@@ -2,7 +2,7 @@
 
 ## 🚀 Skills
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,git,github" />
+  <img src="https://skillicons.dev/icons?i=tailwind,js,react,nextjs,supabase" />
 </p>
 
 <!--
