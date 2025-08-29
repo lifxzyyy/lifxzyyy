@@ -2,7 +2,7 @@
 
 ## 🚀 Skills n Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,js,react,nextjs,supabase,vscode" />
+  <img src="https://skillicons.dev/icons?i=tailwind,js,react,nextjs,supabase,vscode,figma,python" />
 </p>
 
 <!--
