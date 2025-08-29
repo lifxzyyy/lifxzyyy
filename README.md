@@ -1,5 +1,5 @@
 ## Hi there 👋
-<img src = "/image/banner.jpg">
+<img src = "/image/banner.png">
 
 ## 🚀 Skills n Tools
 <p align="left">
