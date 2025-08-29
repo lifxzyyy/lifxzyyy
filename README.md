@@ -6,6 +6,7 @@
   <img src="https://skillicons.dev/icons?i=tailwind,js,react,nextjs,supabase,vscode,figma,python" />
 </p>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316hpcoprywd5eludot4seasmebq&unique={true|1|on|yes})
 <!--
 **lifxzyyy/lifxzyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
