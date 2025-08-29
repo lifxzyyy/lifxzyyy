@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+## 🚀 Skills
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,git,github" />
+</p>
+
 <!--
 **lifxzyyy/lifxzyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
