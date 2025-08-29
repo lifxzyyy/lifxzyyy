@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-## 🚀 Skills
+## 🚀 Skills n Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,js,react,nextjs,supabase" />
+  <img src="https://skillicons.dev/icons?i=tailwind,js,react,nextjs,supabase,vscode" />
 </p>
 
 <!--
