@@ -1,4 +1,4 @@
-## Hi there 👋
+## Helloo Everyone, Lifzyy Here 👋
 <img src = "/image/banner.png">
 
 ## 🚀 Skills n Tools
