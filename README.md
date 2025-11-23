@@ -3,7 +3,7 @@
 
 ## 🚀 Skills n Tools
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tailwind,js,react,nextjs,supabase,vscode,figma,python" />
+  <img src="https://skillicons.dev/icons?i=tailwind,js,typescript,vite,react,nextjs,supabase,vscode,figma,python" />
 </p>
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=316hpcoprywd5eludot4seasmebq&unique={true|1|on|yes})
