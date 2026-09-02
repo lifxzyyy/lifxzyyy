@@ -5,8 +5,7 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tailwind,js,typescript,vite,react,nextjs,supabase,vscode,figma,python" />
 </p>
-[
-![Spotify recently played](https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316hpcoprywd5eludot4seasmebq&album=1&footer=wave)
+https://spotify-recently-played.jeffreyca.workers.dev/svg?user=316hpcoprywd5eludot4seasmebq&album=1&footer=wave
 <!--
 **lifxzyyy/lifxzyyy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
